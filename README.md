@@ -46,9 +46,16 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2023-11-29 211334](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/433bc7e3-c7f4-42a1-82a5-06fcdb0fa10c)
+![Screenshot 2023-11-29 211444](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/ded357b7-1eee-4beb-89b2-4520e881ab1f)
+![Screenshot 2023-11-29 211558](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/4f49b80f-493f-40f2-90d4-e166f49b0f9a)
+![Screenshot 2023-11-29 211644](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/f252082a-e9f5-4a27-b375-b2d0fd536663)
+![Screenshot 2023-11-29 211740](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/0e06602f-67fb-4e9f-94e2-4abdcf370179)
+![Screenshot 2023-11-29 211821](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/ee2a8274-5512-40a5-840b-b296631d0463)
+![Screenshot 2023-11-29 211917](https://github.com/MabbuAdarsh/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365583/4ead5c30-3f81-453c-9928-8110a8ae0148)
 
-### Name:
-### Register Number:
+### Name:MABBU ADARSH
+### Register Number:23003981
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
